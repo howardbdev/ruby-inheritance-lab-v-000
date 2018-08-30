@@ -1,3 +1,4 @@
+arn status
 # Ruby Inheritance Lab
 
 ## Objectives
